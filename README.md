@@ -2,7 +2,8 @@
 
 oracle: /server
 
-api: /api/price/{coin}, coin: eth/mina
+api: /api/price/{coin},  coin: eth/mina
+
 If successful, oracle will output a json:
 ```
 {
